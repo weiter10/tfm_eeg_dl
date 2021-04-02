@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T11:04:13.499Z" agent="5.0 (X11)" etag="YlSvA8ZguxkOoPuUQLew" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T14:52:07.611Z" agent="5.0 (X11)" etag="aGEoolSF6v1lsZ9C-iE2" version="14.5.6" type="github">
   <diagram id="ZZZEqUmLc0_E8XxHJjZa" name="Page-1">
     <mxGraphModel dx="677" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="Jwxpb0Jw1F68lGEl7W2q-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;shadow=0;glass=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="251" y="110" width="43" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Jwxpb0Jw1F68lGEl7W2q-123" value="&lt;div&gt;Channel&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186" y="137" width="40" height="20" as="geometry" />
+        <mxCell id="Jwxpb0Jw1F68lGEl7W2q-123" value="&lt;div&gt;EEG Channels&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144" y="137" width="86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jwxpb0Jw1F68lGEl7W2q-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jwxpb0Jw1F68lGEl7W2q-187">
           <mxGeometry relative="1" as="geometry">
