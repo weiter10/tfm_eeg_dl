@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T15:37:20.711Z" agent="5.0 (X11)" etag="Z4EpuniSb79n6OJ3AKid" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T15:41:07.019Z" agent="5.0 (X11)" etag="oZgO5wXZKxJf4ygminXP" version="14.5.7" type="github">
   <diagram id="nFhh1SwRTP9U8-EJH7uT" name="Page-1">
     <mxGraphModel dx="1422" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,14 +61,20 @@
         <mxCell id="bXjS7xVM5WvGgcZ56zgW-16" value="Overlapping 0.25s between frame 2 and frame 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="270" y="516" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXjS7xVM5WvGgcZ56zgW-19" value="Frame 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="bXjS7xVM5WvGgcZ56zgW-19" value="Frame 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="622.55" y="446" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXjS7xVM5WvGgcZ56zgW-20" value="Frame 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="bXjS7xVM5WvGgcZ56zgW-20" value="Frame 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="622.55" y="25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXjS7xVM5WvGgcZ56zgW-21" value="Frame 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="bXjS7xVM5WvGgcZ56zgW-21" value="Frame 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="622.55" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXjS7xVM5WvGgcZ56zgW-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;opacity=50;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="-77.5" width="20" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="bXjS7xVM5WvGgcZ56zgW-23" value="Previously annotated seizure record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="126.63" y="80" width="291.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
